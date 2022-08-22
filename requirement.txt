@@ -35,4 +35,5 @@ typing-extensions==4.1.1
 urllib3==1.26.9
 yarl==1.7.2
 twint
+termcolor
 setuptools~=57.0.0
